@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "coleifer",
+  "repo": "dot-theme",
+  "versions": [
+    {
+      "commit": "c8c97090672ccafcb696dd8b2fc8867260969a34",
+      "parsed_at": "2026-10-20T21:42:57.605294+00:00",
+      "filetree": "filetree/c8c97090672ccafcb696dd8b2fc8867260969a34.nq.gz",
+      "blobs": [
+        "blob/b10cbdb8221072ddf78cbbf0f85208bedabeab70.nq.gz",
+        "blob/8678cf036ec86b77d01003f26e4ca387b70dbac4.nq.gz",
+        "blob/140b1219aa63befcccf1b1a1043321567f03d21d.nq.gz",
+        "blob/8cbf20cda4e1691516a5d808e1ccd9961cbfb659.nq.gz",
+        "blob/aa19a577100fba12672f45987a573d518b8b712b.nq.gz",
+        "blob/c752ab3ead2e7be324e5cafb5e1d53135c16af13.nq.gz",
+        "blob/ebe91a948ba6b5e4e6235ef4ebcf9cfafe3e034c.nq.gz",
+        "blob/3b802215c3d439f97dad2e1f69294e657cbd3afc.nq.gz",
+        "blob/01c5c612751cc969a3d7b8d4e8544fd6f1c6e944.nq.gz",
+        "blob/68ab6173b3994d4edd0d25a62622b5953534115f.nq.gz",
+        "blob/09a5972c983ba4405c168bbce0d67a369e08dbaf.nq.gz",
+        "blob/f2065e494090d5eda951f6a8a9f7743833292bd7.nq.gz",
+        "blob/c3b213fce76e0c59fe5d9c2f0cdca260e2f97153.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
